@@ -16,7 +16,7 @@ const Team = () => {
         "role": "Director"
       },
       {
-        "image": "",
+        "image": "/img/team/2.png",
         "name": "Virendra Kini",
         "role": "Assistant Manager - Marketing"
       },
@@ -46,7 +46,7 @@ const Team = () => {
         "role": "Graphic Designer"
       },
       {
-        "image": "",
+        "image": "/img/team/8.png",
         "name": "Aishwarya Salunkhe",
         "role": "Content Writer"
       },
