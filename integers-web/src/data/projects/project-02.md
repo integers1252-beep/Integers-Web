@@ -66,7 +66,7 @@ description2:
 
 finalImage:
     enabled: 1
-    image: "/img/portfolio/Rectangle 40.jpg"
+    image: "/img/portfolio/Portfolio - 9.jpg"
     width: 1200
     height: 800
     alt: "image"

@@ -66,7 +66,7 @@ description2:
 
 finalImage:
     enabled: 1
-    image: "/img/portfolio/Portfolio - 2.jpg"
+    image: "/img/portfolio/Portfolio - 11.jpg"
     width: 1200
     height: 800    
     alt: "image"
