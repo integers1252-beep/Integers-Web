@@ -637,7 +637,7 @@ button
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    background-color: #0770C9;
+    background-color: #0984E3;
     color: #FFF !important;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -749,7 +749,7 @@ button
 @media (hover: hover) and (pointer: fine) {
     .mil-button:hover {
         transform: scale(.95);
-        background-color: #0770C9;
+        background-color: #0770C9 !important;
         color: #FFF;
 
         span {
