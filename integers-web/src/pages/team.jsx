@@ -51,7 +51,7 @@ const Team = () => {
         "role": "Content Writer"
       },
       {
-        "image": "/img/team/9.jpeg",
+        "image": "/img/team/9.jpg",
         "name": "Yukta Moolya",
         "role": "AI/ML Engineer"
       },
