@@ -62,7 +62,7 @@ const SubscribeSection = ({ bgColorClass }) => {
                             </div>
                             <div className="col-lg-2">
                                 {/* button */}
-                                <div className="mil-appearance"><button type="submit" disabled={loading} className="mil-button mil-button-md mil-scale-down-trigger mil-mb-30" style={{ backgroundColor: "#0984E3", color: "#FFF", cursor: loading ? "not-allowed" : "pointer" }}>Subscribe Now</button></div>
+                                <div className="mil-appearance"><button type="submit" disabled={loading} className="mil-button mil-button-md mil-scale-down-trigger mil-mb-30" style={{ backgroundColor: "#0984E3", color: "#FFF", cursor: loading ? "not-allowed" : "pointer" }}>{loading ? "Subscribing..." : "Subscribe Now"}</button></div>
                             </div>
                         </div>
 
