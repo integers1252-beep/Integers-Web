@@ -129,7 +129,7 @@ const DefaultFooter = ({ bg, instagram, extraClass }) => {
           </div>
         </div>
 
-        {/* {instagram && (
+        {instagram && (
           <div className="mil-footer-instagram mil-mb-120">
             <div className="mil-instagram-frame">
               <div className="mil-instagram mil-footer-instagram">
@@ -157,8 +157,8 @@ const DefaultFooter = ({ bg, instagram, extraClass }) => {
               </div>
             </div>
           </div>
-        )} */}
-        {instagram && (
+        )}
+        {/* {instagram && (
           <div className="mil-footer-instagram mil-mb-120">
             <div className="mil-instagram-frame">
               <InstagramFeed />
@@ -177,7 +177,7 @@ const DefaultFooter = ({ bg, instagram, extraClass }) => {
               </div>
             </div>
           </div>
-        )}
+        )} */}
       </div>
       {/* <div className="mil-footer-bottom" style={{color:"red"}}>
             <div className="container">
